@@ -74,14 +74,4 @@ class DefaultFirebaseOptions {
     storageBucket: 'city-quest-fc092.firebasestorage.app',
     iosBundleId: 'com.example.cityQuest',
   );
-
-  static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: '',
-    appId: '',
-    messagingSenderId: '',
-    projectId: 'city-quest-fc092',
-    authDomain: 'city-quest-fc092.firebaseapp.com',
-    storageBucket: 'city-quest-fc092.firebasestorage.app',
-    measurementId: 'G-HTJBFZC7D0',
-  );
 }
