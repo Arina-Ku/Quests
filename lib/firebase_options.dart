@@ -41,9 +41,9 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAEkYFn_YVY01ImfaNvK-eaqlWZ_eSN3ms',
-    appId: '1:63893371649:web:20f9bd245c7201da76f900',
-    messagingSenderId: '63893371649',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     projectId: 'city-quest-fc092',
     authDomain: 'city-quest-fc092.firebaseapp.com',
     storageBucket: 'city-quest-fc092.firebasestorage.app',
@@ -51,35 +51,34 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAKf_CpX4ZeGHwr3ISBYlxnndOKpI--DkU',
-    appId: '1:63893371649:android:cff13a0f4d0d225676f900',
-    messagingSenderId: '63893371649',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     projectId: 'city-quest-fc092',
     storageBucket: 'city-quest-fc092.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBYaCjahUgCTGoDrE8RqtasmyCKW3XyHeE',
-    appId: '1:63893371649:ios:d36d2af767a0171076f900',
-    messagingSenderId: '63893371649',
-    projectId: 'city-quest-fc092',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     storageBucket: 'city-quest-fc092.firebasestorage.app',
     iosBundleId: 'com.example.cityQuest',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBYaCjahUgCTGoDrE8RqtasmyCKW3XyHeE',
-    appId: '1:63893371649:ios:d36d2af767a0171076f900',
-    messagingSenderId: '63893371649',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     projectId: 'city-quest-fc092',
     storageBucket: 'city-quest-fc092.firebasestorage.app',
     iosBundleId: 'com.example.cityQuest',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyAEkYFn_YVY01ImfaNvK-eaqlWZ_eSN3ms',
-    appId: '1:63893371649:web:00960b0623fd191176f900',
-    messagingSenderId: '63893371649',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     projectId: 'city-quest-fc092',
     authDomain: 'city-quest-fc092.firebaseapp.com',
     storageBucket: 'city-quest-fc092.firebasestorage.app',
